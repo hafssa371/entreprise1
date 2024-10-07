@@ -1,6 +1,6 @@
 TRAVAIL A RENDRE : Gestion des employés
 
-     Dans une petite entreprise, il y a cinq employés. Au sommet de la hiérarchie on trouve le directeur général. Sous le directeur on trouve un manager et un développeur, en outre deux développeurs travaillent sous la responsabilité du manager. On souhaite afficher les noms et les salaires des employés de haut en bas de la hiérarchie. Les travaux de l’équipe chargée de l’analyse et de la conception ont abouti au diagramme de classe suivant :
+Dans une petite entreprise, il y a cinq employés. Au sommet de la hiérarchie on trouve le directeur général. Sous le directeur on trouve un manager et un développeur, en outre deux développeurs travaillent sous la responsabilité du manager. On souhaite afficher les noms et les salaires des employés de haut en bas de la hiérarchie. Les travaux de l’équipe chargée de l’analyse et de la conception ont abouti au diagramme de classe suivant :
      
  ![image](https://github.com/user-attachments/assets/969a650c-6d49-400c-babe-0973fec5d825)
 
